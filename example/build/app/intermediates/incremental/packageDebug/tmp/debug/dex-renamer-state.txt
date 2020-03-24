@@ -1,0 +1,4 @@
+#Tue Mar 24 12:36:19 EDT 2020
+base.0=/Users/saleh/projects/flutterfire/packages/firebase_messaging/example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
